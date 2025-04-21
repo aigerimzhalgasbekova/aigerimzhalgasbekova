@@ -37,9 +37,9 @@ Infrastructure for enabling GitHub Actions workflows with AWS CodeBuild runners.
 
 An infrastructure-as-code repository for managing AWS cloud resources using Terragrunt and Terraform. This project implements a modular approach to infrastructure management with remote state handling via S3, state locking with DynamoDB, and supports multiple environments and regions. Features includes S3 buckets, KMS keys, and IAM policies management.
 
-### [Beauty Salon Admin AI Agents](https://github.com/aigerimzhalgasbekova/beauty-salon-admin-ai-agents-team)
+### [Beauty Salon Admin System](https://github.com/aigerimzhalgasbekova/beauty-salon-admin-system)
 
-A TypeScript-based system of AI agents that handle the administration tasks of a beauty salon. The system consists of multiple agents that communicate with each other and manage calendar events. Built with TypeScript, Node.js, Telegraf (Telegram Bot API), and Google Calendar API.
+A TypeScript-based administration system for beauty salons, featuring integrated calendar management and multi-user access through Telegram bots. The system implements a hierarchical agent architecture with three specialized agents (Admin, Master, Client) that handle different aspects of salon operations. Built with TypeScript, Node.js, Telegraf (Telegram Bot API), Google Calendar API, and OAuth 2.0 for secure authentication.
 
 ## Get in Touch 📬
 
