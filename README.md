@@ -1,18 +1,12 @@
 # Hi there, I'm Aigerim Zhalgasbekova! 👋
 
-![Aigerim Zhalgasbekova — Senior Software Engineer, Identity & Access](https://raw.githubusercontent.com/aigerimzhalgasbekova/aigerimzhalgasbekova/main/banner.svg)
+![Aigerim Zhalgasbekova — Senior Software Engineer, Identity & Access](./banner.svg)
 
 ## About Me 🚀
 
 I'm a **Senior Software Engineer** with 8+ years of industry experience, specializing in **identity and access management, authentication systems, and backend infrastructure**. I work hands-on with **OAuth 2.0 and OpenID Connect** — auth flows, token lifecycle, multi-tenant isolation — and I like running auth as a production-critical service, with the observability and disaster recovery that implies.
 
-Most recently I led the extraction and zero-downtime migration of a monolithic authentication service into an independent TypeScript/Node.js microservice now serving close to **1 million requests per minute**.
-
-- 🌱 Currently learning: **AI agents**
-- 🔭 Working on: **identity subsystem at CUJO AI**
-- 🔤 Languages: **TypeScript, Python, Java, and Golang**
-- 📫 How to reach me: **aikazzh@gmail.com**
-- 🌏 Beyond code: **traveler (33+ countries), investor, and fitness enthusiast**
+🌏 Beyond code: traveler (33+ countries), investor, and fitness enthusiast.
 
 ## My Skills 🧠
 
